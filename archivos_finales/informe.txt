@@ -1,0 +1,42 @@
+A continuacion comento algunos detalles de los datos de salida del archivo 
+para obtener estos resultados modificar se reemplaza en la linea 104 del codigo el archivo
+mlq001.txt por el archivo mlq002.txt
+
+mlq001.txt
+
+# archivo: salida_1.txt
+# etiqueta; BT; AT; Q; Pr; WT; CT; RT; TAT
+A;6;0;1;5;3;9;0;9
+B;9;0;1;4;6;15;3;15
+C;10;0;2;3;20;30;15;30
+D;15;0;2;3;25;40;20;40
+E;8;0;3;2;40;48;40;48
+WT=18.80; CT=28.40; RT=15.60; TAT=28.40;
+
+
+-------------------------------------------
+mlq002.txt
+
+
+# archivo: salida_2.txt
+# etiqueta; BT; AT; Q; Pr; WT; CT; RT; TAT
+p2;10;2;1;4;10;22;1;20
+p1;20;0;1;5;10;30;0;30
+p3;15;4;2;3;26;45;26;41
+p4;5;6;3;2;39;50;39;44
+p5;8;8;3;1;42;58;42;50
+WT=25.40; CT=41.00; RT=21.60; TAT=37.00;
+
+----------------------------------------------
+mlq003.txt
+
+# archivo: salida_3.txt
+# etiqueta; BT; AT; Q; Pr; WT; CT; RT; TAT
+p1;30;0;1;5;0;30;0;30
+p2;12;1;2;4;39;52;29;51
+p3;18;3;2;3;39;60;32;57
+p5;10;7;3;1;69;86;61;79
+p4;25;5;3;2;65;95;55;90
+WT=42.40; CT=64.60; RT=35.40; TAT=61.40;  
+
+------------------------------------------------
